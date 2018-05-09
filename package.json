@@ -1,0 +1,25 @@
+{
+  "name": "example-yahoo-weather-api",
+  "version": "0.0.1",
+  "description": "Code examples for Node.js on https://developer.yahoo.co.jp/webapi/map/openlocalplatform/v1/weather.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abetomo/example-yahoo-weather-api.git"
+  },
+  "author": "abetomo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abetomo/example-yahoo-weather-api/issues"
+  },
+  "homepage": "https://github.com/abetomo/example-yahoo-weather-api#readme",
+  "engines": {
+    "node": ">= 8.0.0"
+  },
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
